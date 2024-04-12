@@ -12,7 +12,7 @@ function Home() {
     </div>
   );
 }
-
+ 
 function HolaMundo() {
   return (
 
@@ -21,7 +21,7 @@ function HolaMundo() {
       <Link to="/HolaMundo" style={{ textDecoration: 'none' }}>
         <Button variant="contained" color="primary">Go to Hola Mundo</Button>
       </Link>
-      <h1 style={{ color: 'white' }}>Esta es una prueba de respuesta del servidor, la respuesta es exitosa!</h1>
+      <h1 style={{ color: 'white' }}>Esta es una prueba de respuesta del servidor, la respuesta es exitosa! </h1>
     </div>
   );
 }
